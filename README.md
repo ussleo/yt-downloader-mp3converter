@@ -1,4 +1,4 @@
-# youtube-downloader-converter
+# yt-downloader-mp3converter
 A simple Python script that is able to download YouTube videos or playlists and convert them into MP3.
 
 Copyright (c) NeuralNine 2020 - YouTube Downloader v0.2 Alpha
