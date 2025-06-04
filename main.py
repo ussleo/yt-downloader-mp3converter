@@ -1,4 +1,4 @@
-print("Welcome to NeuralNine YouTube Downloader and Converter v0.2 Alpha")
+print("Welcome to Neural9 YT Downloader and Converter v0.2 Alpha")
 print("Loading...")
 
 import pytube
@@ -6,7 +6,7 @@ import youtube_downloader
 import file_converter
 
 print('''
-What do you want?
+choose What you want...
 
 (1) Download YouTube Videos Manually
 (2) Download a YouTube Playlist
